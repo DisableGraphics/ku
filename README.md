@@ -1,2 +1,2 @@
 # ku
-Useless script for unix so you can write: "sudo ku"
+Joke script for unix so you can write: "sudo ku"
